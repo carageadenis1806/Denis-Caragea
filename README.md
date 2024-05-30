@@ -11,7 +11,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="[https://google.com](https://github.com/carageadenis1806/Home-Lab)">Home Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/carageadenis1806/Home-Lab">Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
