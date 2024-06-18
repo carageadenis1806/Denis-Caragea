@@ -11,9 +11,15 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/carageadenis1806/Home-Lab">Home Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/carageadenis1806/Home-Lab">Home Lab</a>, <a href="https://github.com/carageadenis1806/Active-Directory-Project">Active Directory Project</a>|
 | Writing Ansible Playbooks | <a href="https://github.com/carageadenis1806/ansibleScenarioConfigs">Ansible Scenario</a>|
 | Basic Docker & Load balancer configuration | <a href="https://github.com/carageadenis1806/ansibleScenarioConfigs">Ansible Scenario</a>|
+| Generating telemetry data and analyzing it with Splunk | <a href="https://github.com/carageadenis1806/Active-Directory-Project">Active Directory Project</a>|
+| Active Directory basic configuration| <a href="https://github.com/carageadenis1806/Active-Directory-Project">Active Directory Project</a>|
+|Investigating AD attacks| <a href="https://github.com/carageadenis1806/Active-Directory-Project">Active Directory Project</a>|
+
+
+
 
 
 ## Tools
@@ -21,14 +27,12 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### Firewall & VPN
+<img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-0095D3?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
 
 ### SIEM
 <div>
@@ -46,5 +50,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- Basic Home Lab
-- Ansible Scenario
+<a href="https://github.com/carageadenis1806/Home-Lab">Home Lab</a>
+
+<a href="https://github.com/carageadenis1806/ansibleScenarioConfigs">Ansible Scenario</a>
+
+<a href="https://github.com/carageadenis1806/Active-Directory-Project">Active Directory Project</a>
