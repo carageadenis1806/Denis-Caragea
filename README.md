@@ -5,7 +5,7 @@ I am an IT professional with a profound interest in technology and a dedication 
 
 ## Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Cybersecurity Professional with strong interest in Incident Response, malware analysis, network security and cloud security. Hard-working, enthusiastic and technical minded individual.
 
 ## Skills
 
@@ -23,6 +23,20 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 
 ## Tools
+### SOAR
+<div>
+<img src="https://img.shields.io/badge/-Chronicle_Soar-000000?&style=for-the-badge&logo=googlecloud&logoColor=white" /> </div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Endpoint Security
+<div>
+<img src="https://img.shields.io/badge/-M365_Defender-000000?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
 
 ### Network
 <div>
@@ -31,13 +45,9 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
-### Firewall & VPN
-<img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-0095D3?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+### Firewall
+<img src="https://img.shields.io/badge/-PA_Cortex-000000?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
 
 ### Automation
 <div>
